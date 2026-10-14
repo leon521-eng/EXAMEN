@@ -1,5 +1,11 @@
 ## instrucciones de compilacion
 
+### Integrantes
+- Rios Vilchis Santiago León.
+- Reyes de la Cruz Irwing Ruben. 
+- Martinez Rodríguez Miguel Angel
+- Ortega Molina Isaac Emiliano.
+
 El proyecto esta desarrollado en python, por lo que no requiere compilación previa.
 
 ### Prerrequisitos
