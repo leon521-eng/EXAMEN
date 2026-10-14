@@ -26,6 +26,6 @@ cd /ruta/a/tu/directorio/Proyectos/Examen
 python3 Musica.py
 ```
 
-(Nota dependiendo de tu sistema operativo, el comando podría ser simplemente **python** o **py**).
+(Nota dependiendo de tu sistema operativo, el comando podría ser simplemente `python` o `py`).
 
 
