@@ -1,4 +1,4 @@
-## instrucciones de compilacion
+## Instrucciones de compilacion
 
 ### Integrantes
 - Rios Vilchis Santiago León.
@@ -12,7 +12,7 @@ El proyecto esta desarrollado en python, por lo que no requiere compilación pre
 - Tener insalado **Python 3.6** o una versión superior.
 - No tener librerias de terceros (el proyecto solo usa las librerias estándar de Python).
 
-### Pasos para ejzecutar el programa 
+### Pasos para ejecutar el programa 
 1. Abrir la terminal.
 2. Navegar al directorio donde se encuentra el archivo con eñl código fuente utilizando `cd`. Por ejemplo:
 
