@@ -14,13 +14,18 @@ El proyecto esta desarrollado en python, por lo que no requiere compilación pre
 
 ### Pasos para ejecutar el programa 
 1. Abrir la terminal.
-2. Navegar al directorio donde se encuentra el archivo con eñl código fuente utilizando `cd`. Por ejemplo:
+2. Clonar el repositorio con:
+```bash
+git clone https://github.com/leon521-eng/EXAMEN.git
+```
+
+3. Navegar al directorio donde se encuentra el archivo con eñl código fuente utilizando `cd`. Por ejemplo:
 
 ```bash
 cd /ruta/a/tu/directorio/Proyectos/Examen
 ```
 
-3. Ejecutar el script principal invocando el intérprete de Python:
+4. Ejecutar el script principal invocando el intérprete de Python:
 
 ```bash
 python3 Musica.py
